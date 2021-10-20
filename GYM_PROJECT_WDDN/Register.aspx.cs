@@ -52,9 +52,6 @@ namespace GYM_PROJECT_WDDN
 
                     con.Close();
                 }
-
-
-
             }else
             {
                 btn_logout.Visible = false;
